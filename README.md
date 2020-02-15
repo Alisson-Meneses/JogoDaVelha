@@ -1,2 +1,2 @@
 # JogoDaVelha
-Projeto de um jogo Simples construído com Javascript e Html5 e CSS inline
+Projeto de um jogo Simples construído com Javascript, Html5 e CSS inline
